@@ -1,0 +1,190 @@
+🇺🇸 English
+FZ ClipFlow
+
+A simple, fast and lightweight downloader designed to make downloading videos, audio and thumbnails easy.
+
+#------ IMPORTANT (FIRST WINDOWS EXECUTION) ------#
+
+When launching FZ ClipFlow for the first time, Windows may display a security warning such as:
+
+"This app is unrecognized and might put your PC at risk."
+
+or
+
+"Windows protected your PC."
+
+This happens because:
+
+→ FZ ClipFlow is not digitally signed
+→ It is an independent application distributed outside the Microsoft Store
+→ It uses internet-based tools such as yt-dlp
+
+This warning is common for independent software and does not necessarily indicate that the application is malicious.
+
+#------ HOW TO RUN ANYWAY ------#
+
+If Windows SmartScreen appears:
+
+Click "More info"
+Click "Run anyway"
+
+The application will start normally.
+
+This procedure is usually required only the first time you run the program.
+
+#------ QUICK FIX ------#
+
+If Windows continues to block the file:
+
+Locate FZ ClipFlow.exe
+Right-click the file
+Select "Properties"
+Check "Unblock" if the option is available
+Click "Apply"
+Click "OK"
+Run the application again
+
+#------ IF WINDOWS BLOCKS OR REMOVES THE FILE ------#
+
+If the executable is blocked or quarantined:
+
+Open Windows Security
+Go to "Virus & threat protection"
+Open "Protection history"
+Locate FZ ClipFlow
+Select "Allow on device"
+
+If the issue persists:
+
+Open "Virus & threat protection"
+Click "Manage settings"
+Scroll to "Exclusions"
+Click "Add or remove exclusions"
+Click "Add an exclusion"
+Choose "File"
+Select FZ ClipFlow.exe
+
+Then try running the application again.
+
+#------ FEATURES ------#
+
+• High-quality video downloads
+• MP3 audio downloads
+• Thumbnail downloads
+• Title preview before downloading
+• Built-in yt-dlp updater
+• Automatic application updates
+• Integrated release notes
+
+#------ SUPPORTED PLATFORMS ------#
+
+• YouTube
+• Instagram Reels
+• Other platforms supported by yt-dlp
+
+#------ DISCLAIMER ------#
+
+Users are fully responsible for how they use the software and the content they choose to download.
+
+It is recommended to use the application only with content that is:
+
+→ Public domain
+→ Authorized by the creator
+→ Compatible with the platform's terms of service
+
+———————————————————————————————————————————————————————————————————————————
+
+🇧🇷 Português
+FZ ClipFlow
+
+Um downloader simples, rápido e direto ao ponto, feito para facilitar o download de vídeos, áudio e thumbnails.
+
+#------ IMPORTANTE (PRIMEIRA EXECUÇÃO NO WINDOWS) ------#
+
+Ao abrir o FZ ClipFlow pela primeira vez, o Windows pode exibir um aviso de segurança semelhante a:
+
+"Este aplicativo não é reconhecido e pode colocar seu computador em risco."
+
+ou
+
+"O Windows protegeu o computador."
+
+Isso acontece porque:
+
+→ O FZ ClipFlow não possui assinatura digital
+→ É um software independente distribuído fora da Microsoft Store
+→ Utiliza ferramentas que acessam conteúdo da internet (yt-dlp)
+
+Esse aviso é comum em programas independentes e não significa necessariamente que o aplicativo seja malicioso.
+
+#------ COMO EXECUTAR MESMO ASSIM ------#
+
+Se o Windows exibir a tela de proteção do SmartScreen:
+
+Clique em "Mais informações"
+Clique em "Executar assim mesmo"
+
+O programa será iniciado normalmente.
+
+Esse procedimento geralmente é necessário apenas na primeira execução.
+
+#------ COMO RESOLVER (PASSO RÁPIDO) ------#
+
+Se o Windows continuar bloqueando o arquivo:
+
+Vá até a pasta onde está o FZ ClipFlow.exe
+Clique com o botão direito no arquivo
+Clique em "Propriedades"
+Na parte inferior da janela, marque "Desbloquear" (se a opção estiver disponível)
+Clique em "Aplicar"
+Clique em "OK"
+Execute o programa novamente
+
+#------ SE O WINDOWS BLOQUEAR OU EXCLUIR ------#
+
+Caso o arquivo seja bloqueado ou removido automaticamente:
+
+Abra o menu Iniciar
+Procure por "Segurança do Windows"
+Vá em "Proteção contra vírus e ameaças"
+Clique em "Histórico de proteção"
+Localize o FZ ClipFlow
+Clique em "Permitir no dispositivo"
+
+Se o problema persistir:
+
+Vá em "Proteção contra vírus e ameaças"
+Clique em "Gerenciar configurações"
+Role até "Exclusões"
+Clique em "Adicionar ou remover exclusões"
+Clique em "Adicionar exclusão"
+Escolha "Arquivo"
+Selecione o FZ ClipFlow.exe
+
+Após isso, tente executar o programa novamente.
+
+#------ RECURSOS ------#
+
+• Download de vídeos em alta qualidade
+• Download de áudio em MP3
+• Download de thumbnails
+• Prévia do título do conteúdo
+• Atualização automática do yt-dlp
+• Atualização automática do aplicativo
+• Histórico de novidades integrado
+
+#------ PLATAFORMAS SUPORTADAS ------#
+
+• YouTube
+• Instagram Reels
+• Outras plataformas compatíveis com yt-dlp
+
+#------ AVISO LEGAL ------#
+
+O usuário é totalmente responsável pela utilização do software e pelo conteúdo que escolhe baixar.
+
+Recomenda-se utilizar apenas conteúdos:
+
+→ De domínio público
+→ Autorizados pelo criador
+→ Compatíveis com os termos de uso da plataforma
