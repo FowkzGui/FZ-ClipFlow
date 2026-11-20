@@ -2,58 +2,79 @@
 
 **Simple. Fast. Reliable.**
 
-Download videos, audio and thumbnails with just a few clicks.
+Download videos, audio, and thumbnails with just a few clicks.
 
-FZ ClipFlow is a lightweight media downloader built around yt-dlp and FFmpeg.
+FZ ClipFlow is a free, lightweight, and portable media downloader for Windows, powered by **yt-dlp, gallery-dl, and FFmpeg**.
 
-Designed to be fast, easy to use and beginner-friendly, it allows users to download videos, audio and thumbnails from supported platforms through a modern graphical interface.
+Designed to be fast, intuitive, and beginner-friendly, it provides a modern graphical interface for downloading media from supported platforms without complicated commands or additional installations.
 
 ## Features
 
-* Download videos in high quality (up to 1080p60)
-* Download audio as MP3
-* Download thumbnails in original quality
-* Download video + thumbnail together
-* Preview video titles before downloading
-* Download cancellation support
-* Built-in yt-dlp updater
-* Application updates through GitHub Releases
-* Automatic update notifications
-* Release notes integrated into the application
+### Media Downloads
+
+- Download high-quality videos (up to 1440p / 2K).
+- Extract and download audio in MP3 format.
+- Download thumbnails in their original quality.
+- Download videos and thumbnails together.
+- Preview video titles before downloading.
+- Cancel downloads in progress.
+- Support for multiple platforms through yt-dlp and gallery-dl.
+
+### Interface
+
+- Modern and intuitive graphical interface.
+- **Compact Mode** with a smaller, floating download window.
+- Download progress indicator with status information.
+- Dark-themed interface.
+- Available in **English, Portuguese (Brazil), and Spanish**.
+
+### Updates
+
+- Built-in yt-dlp component updater.
+- Automatic checks for new application versions.
+- Download and install application updates directly through FZ ClipFlow.
+- Automatic application restart after updating.
+- Integrity verification and recovery mechanisms during updates.
+- Release notes integrated into the application.
 
 ## Supported Platforms
 
-* YouTube
-* Instagram Reels
-* Other platforms supported by yt-dlp
+- YouTube.
+- Instagram Reels.
+- Other platforms supported by yt-dlp and gallery-dl.
+
+Platform availability may vary depending on service changes and extractor compatibility.
 
 ## Requirements
 
-No additional installation is required.
+- Windows operating system.
+- No installation required.
 
-The application already includes:
+FZ ClipFlow is distributed as a portable executable and includes the necessary components for its supported operations.
 
-* yt-dlp
-* FFmpeg
+## Download
 
-## Downloads
+The latest version is available in **[GitHub Releases](https://github.com/FowkzGui/FZ-ClipFlow/releases/latest)**.
 
-The latest version is available in the Releases section.
+Download `FZ_ClipFlow.exe` and run it.
 
-## Disclaimer
+## Responsible Use
 
-FZ ClipFlow is a general-purpose tool.
+FZ ClipFlow is a general-purpose media downloading tool.
 
-Users are responsible for how they use the software and should respect the terms of service and copyright policies of the platforms they interact with.
+Users are responsible for how they use the software and must respect copyright laws, content licenses, and the terms of service of the platforms they access.
+
+The availability of a download does not imply permission to reproduce, distribute, or use copyrighted content.
 
 ## Credits
 
-Developed by FowkzGui.
+Developed by **FowkzGui**.
 
-Powered by:
+Powered by open-source projects:
 
-* yt-dlp
-* FFmpeg
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp)
+- [gallery-dl](https://github.com/mikf/gallery-dl)
+- [FFmpeg](https://ffmpeg.org/)
 
 ---
 
@@ -63,53 +84,74 @@ Powered by:
 
 Baixe vídeos, áudios e thumbnails com apenas alguns cliques.
 
-O FZ ClipFlow é um downloader leve baseado em yt-dlp e FFmpeg.
+O FZ ClipFlow é um aplicativo gratuito, leve e portátil para Windows, desenvolvido com **yt-dlp, gallery-dl e FFmpeg**.
 
-Desenvolvido para ser rápido, fácil de usar e acessível para qualquer usuário, ele permite baixar vídeos, áudios e thumbnails de plataformas compatíveis através de uma interface gráfica moderna.
+Criado para oferecer praticidade, rapidez e facilidade de uso, permite baixar conteúdos de plataformas compatíveis por meio de uma interface gráfica moderna, sem comandos complicados ou instalações adicionais.
 
 ## Recursos
 
-* Download de vídeos em alta qualidade (até 1080p60)
-* Download de áudio em MP3
-* Download de thumbnails em qualidade original
-* Download de vídeo + thumbnail simultaneamente
-* Prévia do título antes do download
-* Cancelamento de downloads
-* Atualização integrada do yt-dlp
-* Atualização do aplicativo via GitHub Releases
-* Notificação automática de novas versões
-* Histórico de novidades integrado ao aplicativo
+### Downloads de mídia
+
+- Download de vídeos em alta qualidade (até 1440p / 2K).
+- Extração e download de áudio em formato MP3.
+- Download de thumbnails em qualidade original.
+- Download de vídeos e thumbnails simultaneamente.
+- Prévia dos títulos antes do download.
+- Cancelamento de downloads em andamento.
+- Compatibilidade com diversas plataformas através do yt-dlp e gallery-dl.
+
+### Interface
+
+- Interface gráfica moderna e intuitiva.
+- **Modo Compacto** com uma janela flutuante e reduzida para downloads.
+- Indicador de progresso com informações sobre o download.
+- Interface com tema escuro.
+- Disponível em **português (Brasil), inglês e espanhol**.
+
+### Atualizações
+
+- Atualização integrada do componente yt-dlp.
+- Verificação automática de novas versões do aplicativo.
+- Download e instalação de atualizações diretamente pelo FZ ClipFlow.
+- Reinicialização automática após a atualização.
+- Verificação de integridade e mecanismos de recuperação durante atualizações.
+- Histórico de novidades integrado ao aplicativo.
 
 ## Plataformas Suportadas
 
-* YouTube
-* Instagram Reels
-* Outras plataformas compatíveis com yt-dlp
+- YouTube.
+- Instagram Reels.
+- Outras plataformas compatíveis com yt-dlp e gallery-dl.
+
+A disponibilidade pode variar conforme alterações nas plataformas e na compatibilidade dos extratores.
 
 ## Requisitos
 
-Nenhuma instalação adicional é necessária.
+- Sistema operacional Windows.
+- Nenhuma instalação necessária.
 
-O aplicativo já inclui:
+O FZ ClipFlow é distribuído como um executável portátil e inclui os componentes necessários para suas operações compatíveis.
 
-* yt-dlp
-* FFmpeg
+## Download
 
-## Downloads
+A versão mais recente está disponível em **[GitHub Releases](https://github.com/FowkzGui/FZ-ClipFlow/releases/latest)**.
 
-A versão mais recente está disponível na seção Releases.
+Basta baixar o arquivo `FZ_ClipFlow.exe` e executá-lo.
 
-## Aviso
+## Uso Responsável
 
-O FZ ClipFlow é uma ferramenta de uso geral.
+O FZ ClipFlow é uma ferramenta de uso geral destinada ao download de conteúdos de mídia.
 
-O usuário é responsável pela forma como utiliza o software e deve respeitar os termos de uso e direitos autorais das plataformas utilizadas.
+O usuário é responsável pela forma como utiliza o aplicativo e deve respeitar a legislação de direitos autorais, as licenças dos conteúdos e os termos de uso das plataformas acessadas.
+
+A possibilidade de realizar um download não significa que exista autorização para reproduzir, distribuir ou utilizar conteúdos protegidos por direitos autorais.
 
 ## Créditos
 
-Desenvolvido por FowkzGui.
+Desenvolvido por **FowkzGui**.
 
-Powered by:
+Desenvolvido com o auxílio de projetos de código aberto:
 
-* yt-dlp
-* FFmpeg
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp)
+- [gallery-dl](https://github.com/mikf/gallery-dl)
+- [FFmpeg](https://ffmpeg.org/)
